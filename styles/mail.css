@@ -1,0 +1,30 @@
+.btn.outlined {
+    background-color: transparent;
+    border: 1px solid #e9e9e9;
+}
+.btn.outlined:hover {
+    background-color: #FAFAFA;
+}
+.btn.primary{
+    background-color: #FE2C55;
+    color: #FFFFFF;
+}
+.btn.primary:hover{
+    background-color: #F02A51;
+}
+.btn.text.primary{
+    background-color: transparent;
+    color: #FE2C55;
+}
+.btn.text:hover{
+    background-color: #f1f1f1;
+}
+.btn.outlined.primary{
+    background-color: transparent;
+    color: #FE2C55;
+    border-color: #FE2C55;
+    
+}
+.btn.outlined.primary:hover{
+    background-color: #fff4f5;
+}
